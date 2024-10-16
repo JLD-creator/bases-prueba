@@ -4,9 +4,9 @@ hola
 ## Sección
 Una lista:
 
--Hola.
--Qué Tal.
--Algo mas.
+-Hola
+-Qué Tal
+-Algo mas
 
 Otra lista ordenada:
 1. Primer paso

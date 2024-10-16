@@ -14,7 +14,7 @@ Otra lista ordenada:
 1. Primer paso
 2. segundo paso
 
-         -Importante
+    -Importante
 
-         -recordar
+   -recordar
 4. Tercer paso

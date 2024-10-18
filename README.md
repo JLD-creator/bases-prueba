@@ -2,6 +2,8 @@
 hola
 Puedes ver [mis notas](directorio/mis-notas.md)
 
+Esto lo he hecho con nano
+
 ![lA MANO DE DIOS](mano.png)
 
 ## Sección

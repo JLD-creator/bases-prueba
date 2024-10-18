@@ -1,5 +1,6 @@
 # bases-prueba
 hola
+Puedes ver [mis notas](directorio/mis-notas.md)
 
 ![lA MANO DE DIOS](mano.png)
 

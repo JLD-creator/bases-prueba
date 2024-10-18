@@ -27,7 +27,7 @@ CREATE TABLE miau (
  patas INT
 );
 ```
-
+```
 CREATE TABLA tabla (
  a INT 
  );

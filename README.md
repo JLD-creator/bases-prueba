@@ -21,7 +21,7 @@ Otra lista ordenada:
     -recordar
 4. Tercer paso
 
-```
+```sql
 CREATE TABLE miau (
  cabeza VARCHAR(255),
  patas INT
